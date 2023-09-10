@@ -15,12 +15,17 @@
 
 ## 2. 서비스 주요 기능 설명
 
-
-- 주요 기능
   - 로그인 회원가입
+    
   - 주변 위치의 산, 게시글 정보 제공
+    - ![ezgif com-resize](https://github.com/sohwakhaeng-fe/lotto/assets/86196026/cf7df4b8-ce1b-4852-91c2-4adc50b5eb80)
+    
   - 챌린지 모집
+    - ![challenge_resize](https://github.com/nahyyun/mountain-forest/assets/86196026/83b0c78b-d52a-48a2-abf9-29e32c5eebf1)
+
   - 개인, 챌린지 피드(SNS)
+    - ![feed_resize](https://github.com/nahyyun/mountain-forest/assets/86196026/1bc8499b-7074-4cce-84a8-cfa6c14794ce)
+    
   - 누적 점수에 따라 랭킹 매기기
 
 <br>
